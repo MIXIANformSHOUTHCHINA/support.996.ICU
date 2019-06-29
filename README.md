@@ -199,6 +199,7 @@ Supported by / 支持者:
 * HongBo Du, Software Engineer, Freelancer
 * Hongyu Chen(陈泓予), Software Engineer
 * Huajie Zhou, Student,Guangxi Normal University
+* Yongqi Huang（黄湧棋）,Student,Naning NO.2 High School ASEAN Campus
 * Ikka(Dongxu Chen), Student, Shandong China
 * Irene Knapp, Senior Software Engineer, Google
 * İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
